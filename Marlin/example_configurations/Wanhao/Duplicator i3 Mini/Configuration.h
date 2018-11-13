@@ -379,7 +379,7 @@
 
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
 
-  // Wanhao Duplicator i3 Mini
+  // Wanhao Duplicator i3 Mini & rebrands
   #define DEFAULT_Kp 22.2
   #define DEFAULT_Ki 1.08
   #define DEFAULT_Kd 114
